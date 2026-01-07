@@ -6,3 +6,5 @@ The code does all these things in file system, and does not use any database sys
 All you need to do is download the code. Then create two txt file anywhere in your pc, names as product and inventory. Copy their path, go to the code, in every file directory, if the method is related to product then paste the product.txt directory, and for worker paste the worker.txt directory
 
 this is my first year final project, we were not taught database so our instruction was to create this whole code using file system and array list. 
+
+hello this is test
